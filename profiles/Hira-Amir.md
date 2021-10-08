@@ -2,4 +2,4 @@ Name: Hira Amir
 
 Username: Hira-Amir
 
-Favorite Language: Java
+Favorite Language: C++,Java 
