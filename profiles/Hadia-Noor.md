@@ -1,5 +1,5 @@
-Name: Hadia Noor
+Name: Ahmad Waqas
 
-Username: Hadia-Noor
+Username: nameK18
 
 Favorite Language: Python
